@@ -1,5 +1,5 @@
-git clone https://github.com/dinosnore1/device_xiaomi_kenzo -b o8.1 device/xiaomi/kenzo
-git clone https://github.com/dinosnore1/device_xiaomi_msm8956-common -b o8.1 device/xiaomi/msm8956-common
+git clone https://github.com/BootleggersROM-Devices/device_xiaomi_kenzo -b oreo.1 device/xiaomi/kenzo
+git clone https://github.com/BootleggersROM-Devices/device_xiaomi_msm8956-common -b oreo.1 device/xiaomi/msm8956-common
 git clone https://github.com/dinosnore1/kernel_xiaomi_msm8956 -b 8.1 kernel/xiaomi/msm8956
 git clone https://github.com/dinosnore1/proprietary_vendor_xiaomi -b 8.1 vendor/xiaomi
 rm -rf hardware/qcom/audio-caf/msm8952
